@@ -22,3 +22,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# LINKAR BACKEND NO GITHUB PAGES (PROVAVELMENTE VAI TER Q USAR MYSQL)
+# COLOCAR REDIRECT PARA O PORTFOLIO
+# Tirar a logo do Cod3r
+# Arrumar funcionamento
+#   -> Novo registro aparece bugado quando registra
+#	-> Quando exclui um registro, some todos os registros da pagina
+#   -> Alterar cores
